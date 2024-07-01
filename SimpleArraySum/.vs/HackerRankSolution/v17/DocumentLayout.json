@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Belgeler\\GitHub\\HackerRank\\SimpleArraySum\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B8C0863F-C2EB-45D9-B01B-B265C13E3267}|SimpleArraySum\\SimpleArraySum.csproj|c:\\users\\user\\onedrive\\belgeler\\github\\hackerrank\\simplearraysum\\simplearraysum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C0863F-C2EB-45D9-B01B-B265C13E3267}|SimpleArraySum\\SimpleArraySum.csproj|solutionrelative:simplearraysum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D57D79E4-9004-4B23-92BE-6FF46543FE00}|AVerryBigSum\\AVerryBigSum.csproj|c:\\users\\user\\onedrive\\belgeler\\github\\hackerrank\\simplearraysum\\averrybigsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D57D79E4-9004-4B23-92BE-6FF46543FE00}|AVerryBigSum\\AVerryBigSum.csproj|solutionrelative:averrybigsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Belgeler\\GitHub\\HackerRank\\SimpleArraySum\\SimpleArraySum\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleArraySum\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Belgeler\\GitHub\\HackerRank\\SimpleArraySum\\SimpleArraySum\\Program.cs",
+              "RelativeToolTip": "SimpleArraySum\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:04:39.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Belgeler\\GitHub\\HackerRank\\SimpleArraySum\\AVerryBigSum\\Program.cs",
               "RelativeDocumentMoniker": "AVerryBigSum\\Program.cs",
