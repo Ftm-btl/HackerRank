@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Belgeler\GitHub\HackerRank\SimpleArraySum\AVerryBigSum\bin\Debug\net8.0\AVerryBigSum.exe
+C:\Users\user\OneDrive\Belgeler\GitHub\HackerRank\SimpleArraySum\AVerryBigSum\bin\Debug\net8.0\AVerryBigSum.deps.json
+C:\Users\user\OneDrive\Belgeler\GitHub\HackerRank\SimpleArraySum\AVerryBigSum\bin\Debug\net8.0\AVerryBigSum.runtimeconfig.json
+C:\Users\user\OneDrive\Belgeler\GitHub\HackerRank\SimpleArraySum\AVerryBigSum\bin\Debug\net8.0\AVerryBigSum.dll
+C:\Users\user\OneDrive\Belgeler\GitHub\HackerRank\SimpleArraySum\AVerryBigSum\bin\Debug\net8.0\AVerryBigSum.pdb
+C:\Users\user\OneDrive\Belgeler\GitHub\HackerRank\SimpleArraySum\AVerryBigSum\obj\Debug\net8.0\AVerryBigSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Belgeler\GitHub\HackerRank\SimpleArraySum\AVerryBigSum\obj\Debug\net8.0\AVerryBigSum.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Belgeler\GitHub\HackerRank\SimpleArraySum\AVerryBigSum\obj\Debug\net8.0\AVerryBigSum.AssemblyInfo.cs
+C:\Users\user\OneDrive\Belgeler\GitHub\HackerRank\SimpleArraySum\AVerryBigSum\obj\Debug\net8.0\AVerryBigSum.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Belgeler\GitHub\HackerRank\SimpleArraySum\AVerryBigSum\obj\Debug\net8.0\AVerryBigSum.dll
+C:\Users\user\OneDrive\Belgeler\GitHub\HackerRank\SimpleArraySum\AVerryBigSum\obj\Debug\net8.0\refint\AVerryBigSum.dll
+C:\Users\user\OneDrive\Belgeler\GitHub\HackerRank\SimpleArraySum\AVerryBigSum\obj\Debug\net8.0\AVerryBigSum.pdb
+C:\Users\user\OneDrive\Belgeler\GitHub\HackerRank\SimpleArraySum\AVerryBigSum\obj\Debug\net8.0\AVerryBigSum.genruntimeconfig.cache
+C:\Users\user\OneDrive\Belgeler\GitHub\HackerRank\SimpleArraySum\AVerryBigSum\obj\Debug\net8.0\ref\AVerryBigSum.dll
